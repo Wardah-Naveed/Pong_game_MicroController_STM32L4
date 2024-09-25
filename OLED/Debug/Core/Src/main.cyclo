@@ -1,0 +1,15 @@
+../Core/Src/main.c:141:15:readPC13State	1
+../Core/Src/main.c:145:15:readPC4State	1
+../Core/Src/main.c:149:15:readPC5State	1
+../Core/Src/main.c:153:6:movePaddleLeft	5
+../Core/Src/main.c:168:6:movePaddleRight	5
+../Core/Src/main.c:183:6:StartGameTask	9
+../Core/Src/main.c:214:6:StartPaddleTask	2
+../Core/Src/main.c:225:6:StartDisplayTask	3
+../Core/Src/main.c:251:6:StartGameOverTask	7
+../Core/Src/main.c:302:6:HAL_GPIO_EXTI_Callback	3
+../Core/Src/main.c:314:5:main	1
+../Core/Src/main.c:340:6:SystemClock_Config	4
+../Core/Src/main.c:375:13:MX_I2C1_Init	4
+../Core/Src/main.c:396:13:MX_GPIO_Init	1
+../Core/Src/main.c:428:6:Error_Handler	1
